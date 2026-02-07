@@ -1,4 +1,4 @@
-# 💫 OLÁ! EU SOU O THAYLSON FERNANDO
+# 🤖 OLÁ! EU SOU O THAYLSON FERNANDO
 
 Sou estudante de Engenharia da Computação.  
 Atualmente, atuo como **Backend Developer**.
